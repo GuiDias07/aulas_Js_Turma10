@@ -1,0 +1,22 @@
+1- Dê um exemplo de uma variável obedecendo a boa prática camelCase.
+R: var variavelCamelCase = 100%;
+
+2- Por padrão, qual o tipo de dado atribuído a uma variável quando esta não recebe nenhum valor?
+R: Undefined;
+
+3- Quais as duas categorias de tipos de dados do JS?
+R: primitivos: 
+    Boolean
+    Null
+    Undefined
+    Number
+    BigInt
+    String
+    Symbol
+e não primitivos 
+    Object.
+
+4- É verdade que o JavasScript é uma linguagem server-side?
+R: falso, JS é uma linguagem client-side. Significa "lado do cliente", ou seja, aplicações 
+que rodam no computador do usuário sem necessidade de processamento de seu servidor (ou host) 
+para efetuar determinada tarefa.

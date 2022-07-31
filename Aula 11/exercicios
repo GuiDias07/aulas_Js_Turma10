@@ -1,0 +1,15 @@
+//1- O que o manipulador ou função replace efetua em uma string? 
+//R: Ele susbtitui uma string por outra.
+
+//2- O que o manipulador ou função sort efetua em um array?
+//R: Ordena os elementos de um array em ordem crescente ( mais focado no alfabeto)
+
+//3- É correto dizer que o JS é uma linguagem orientada a objetos? 
+//R: JavaScript não é uma linguagem de programação orientada a objetos e, mas ele cria
+// uma orientação certa orientação aos objetos, desse modo 
+// suas variáveis são dependentes dos objetos. Nas linguagens de programação orientadas 
+// a objetos, os programadores criam seus próprios objetos e tipos de variáveis. 
+// Um objeto é um tipo especial de variável que contém propriedades e métodos.
+
+//4- Como definimos o operador new?
+//R: Uma palavra reservada que dá origem a um novo objeto;

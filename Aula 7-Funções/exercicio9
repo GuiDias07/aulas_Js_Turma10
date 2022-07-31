@@ -1,0 +1,11 @@
+1.Qual a diferença entre as declarações de variáveis var, let e const?
+R: var você pode declar praticamente toda hora, lembrando que cada vez que se reescreva o var ela
+sobrescreve a anterior
+let é uma espécie de "constante" dentro de um mesmo escopo, só pode ter uma.
+const é cosntante no arquivo todo, uma vez definida não aceita ser substituída.
+
+2.É verdade que o uso de parâmentros em funções é obrigatório?
+R: não
+
+3. Como inserir um arquivo JS em um documento HTML?
+<!-- R: <script src = "nomeDoArquivo.js"></script> -->

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> AULA 5 [CONCATENAÇÃO DE STRINGS - SAÍDA E ENTRADA DEDADOS]</title>
+</head>
+<script>
+    // alert("Olá mundo");
+    // prompt("Digite alguma coisa");
+    // confirm("Clique em um botão");
+
+    // var nome = prompt(" Digite seu nome ");
+    // var cor = prompt (" Qual a sua cor favorita " + nome + "?");
+
+    // document.write(" O nome do usuário é " + nome + "<br>");
+    // document.write(" A cor favorita de " + nome + " é " + cor + "<br>");
+
+   
+    // if (confirm("Clique em um botão")) {
+
+    //     document.write(" Você clicou em ok");
+
+    // } else {
+
+    //     document.write("Você clicou em cancelar");
+    // }
+
+    var opcao = prompt("Digite 1 ou 2 para continuar");
+    console.log(opcao);
+
+    switch(opcao) {
+        case "1":
+        var pergunta = confirm("Você pretende continuar?");
+            if(pergunta){
+                alert("Parabéns, está ficando bom");
+            } else {
+                alert("Não foi dessa vez");
+            }
+            
+        break;
+        case "2": 
+        var pergunta = " Você está certo disso?"
+        if(pergunta) {
+            var conj = prompt("Qual o nome do seu conjuge?");
+            alert("Parabéns por ser casado com o(a)" + conj);
+        }
+    }
+
+        
+
+
+
+</script>
+<body>
+    
+</body>
+</html>
